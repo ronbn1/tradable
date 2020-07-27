@@ -122,7 +122,6 @@ const closeCandle = (map, list, time) => {
          }
          //sendCandlesToClient();
          console.log("list", list);
-         console.log("map", map);
       }, time);
    }, time);
 };

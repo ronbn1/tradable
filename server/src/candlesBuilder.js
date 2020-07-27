@@ -69,6 +69,9 @@ function sendCandle() { //send  candle to another node proccess so it will send 
 const minCandleMap = {};
 const fifteenMinCandleMap = {};
 const hourCandleMap = {};
+const minCandleLists = {};
+const fifteenCandleLists = {};
+const hourCandleLists = {};
 
 const updateMap = (symbol, currentPrice, map) => {
    if (map[symbol]) {
@@ -78,6 +81,8 @@ const updateMap = (symbol, currentPrice, map) => {
       map[symbol].high =
          map[symbol].high > currentPrice ? map[symbol].high : currentPrice;
 
+      map[symbol].time = new Date().toLocaleTimeString();
+
       map[symbol].lastPrice = currentPrice;
    } else {
       map[symbol] = {
@@ -86,7 +91,7 @@ const updateMap = (symbol, currentPrice, map) => {
          open: currentPrice,
          close: null,
          lastPrice: currentPrice,
-         time: Date.now(),
+         time: new Date().toLocaleTimeString(),
       };
    }
 };
@@ -103,41 +108,31 @@ const updateMaps = (jData) => {
    return minCandleMap;
 };
 
-const closeCandle = () => {
-   setTimeout(() => {
-      //one minute
-      setInterval(() => {
-         for (s in minCandleMap) {
-            minCandleMap[s].close = minCandleMap[s].lastPrice;
-         }
-         //sendCandlesToClient();
-      }, 60 * 1000);
-   }, 60 * 1000);
+const addCandlesToLists = (map, list, symbol) => {
+   const toAdd = { ...map[symbol] };
+   list[symbol] = list[symbol] ? [...list[symbol], toAdd] : [toAdd];
+};
 
+const closeCandle = (map, list, time) => {
    setTimeout(() => {
-      //15 minute
       setInterval(() => {
-         for (s in minCandleMap) {
-            fifteenMinCandleMap[s].close = fifteenMinCandleMap[s].lastPrice;
+         for (s in map) {
+            map[s].close = map[s].lastPrice;
+            addCandlesToLists(map, list, s);
          }
          //sendCandlesToClient();
-         //storeInDB()
-      }, 15 * 60 * 1000);
-   }, 15 * 60 * 1000);
-
-   setTimeout(() => {
-      //60 minute
-      setInterval(() => {
-         for (s in minCandleMap) {
-            hourCandleMap[s].close = hourCandleMap[s].lastPrice;
-         }
-         //sendCandlesToClient();
-         //storeInDB()
-      }, 60 * 60 * 1000);
-   }, 60 * 60 * 1000);
+         console.log("list", list);
+         console.log("map", map);
+      }, time);
+   }, time);
+};
+const closeCandles = () => {
+   closeCandle(minCandleMap, minCandleLists, 60 * 1000);
+   closeCandle(fifteenMinCandleMap, fifteenCandleLists, 15 * 60 * 1000);
+   closeCandle(hourCandleMap, hourCandleLists, 60 * 60 * 1000);
 };
 
 module.exports = {
    updateMaps,
-   closeCandle,
+   closeCandles,
 };

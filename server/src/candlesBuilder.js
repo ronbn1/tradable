@@ -66,6 +66,8 @@ function sendCandle() { //send  candle to another node proccess so it will send 
 //    candlesBuilder,
 // }
 */
+
+const axios = require("axios");
 const minCandleMap = {};
 const fifteenMinCandleMap = {};
 const hourCandleMap = {};
@@ -115,13 +117,8 @@ const addCandlesToLists = (map, list, symbol) => {
 const closeCandle = (map, list, time) => {
    setTimeout(() => {
       setInterval(() => {
-         // for (const s in map) {
-         //    if (map.hasOwnProperty(s)) {
-         //       addCandlesToLists(map, list, s);
-         //    }
-         // }
          Object.keys(map).map((s) => addCandlesToLists(map, list, s));
-         //sendCandlesToClient();
+         sendCandles(map);
          console.log("list", list);
       }, time);
    }, time);
@@ -130,6 +127,16 @@ const closeCandles = () => {
    closeCandle(minCandleMap, minCandleLists, 6 * 1000);
    closeCandle(fifteenMinCandleMap, fifteenCandleLists, 15 * 60 * 1000);
    closeCandle(hourCandleMap, hourCandleLists, 60 * 60 * 1000);
+};
+
+const sendCandles = async (map) => {
+   try {
+      await axios.post(url, {
+         candles: map,
+      });
+   } catch (e) {
+      console.log(e);
+   }
 };
 
 module.exports = {

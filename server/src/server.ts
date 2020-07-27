@@ -4,7 +4,11 @@ const app = express();
 const symbols = require("./providers/symbols.js");
 const candles = require("./candlesBuilder.js");
 const WebSocket = require("ws");
-const socket = new WebSocket("wss://ws.finnhub.io?token=bse6fvvrh5rea8raarvg");
+require("dotenv").config();
+
+const socket = new WebSocket(
+   `wss://ws.finnhub.io?token=${process.env.API_KEY}`
+);
 
 // Connection opened -> Subscribe
 socket.addEventListener("open", function (event) {

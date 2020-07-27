@@ -81,16 +81,15 @@ const updateMap = (symbol, currentPrice, map) => {
       map[symbol].high =
          map[symbol].high > currentPrice ? map[symbol].high : currentPrice;
 
+      map[symbol].close = currentPrice;
       map[symbol].time = new Date().toLocaleTimeString();
-
-      map[symbol].lastPrice = currentPrice;
    } else {
       map[symbol] = {
          low: currentPrice,
          high: currentPrice,
          open: currentPrice,
-         close: null,
-         lastPrice: currentPrice,
+         close: currentPrice,
+
          time: new Date().toLocaleTimeString(),
       };
    }
@@ -99,11 +98,11 @@ const updateMap = (symbol, currentPrice, map) => {
 const updateMaps = (jData) => {
    const dataObj = JSON.parse(jData);
    if (dataObj.type === "trade") {
-      const symbol = dataObj.data[0].s;
-      const currentPrice = dataObj.data[0].p;
-      updateMap(symbol, currentPrice, minCandleMap);
-      updateMap(symbol, currentPrice, fifteenMinCandleMap);
-      updateMap(symbol, currentPrice, hourCandleMap);
+      const { s, p } = dataObj.data[0];
+
+      updateMap(s, p, minCandleMap);
+      updateMap(s, p, fifteenMinCandleMap);
+      updateMap(s, p, hourCandleMap);
    }
    return minCandleMap;
 };
@@ -116,9 +115,10 @@ const addCandlesToLists = (map, list, symbol) => {
 const closeCandle = (map, list, time) => {
    setTimeout(() => {
       setInterval(() => {
-         for (s in map) {
-            map[s].close = map[s].lastPrice;
-            addCandlesToLists(map, list, s);
+         for (const s in map) {
+            if (map.hasOwnProperty(s)) {
+               addCandlesToLists(map, list, s);
+            }
          }
          //sendCandlesToClient();
          console.log("list", list);
@@ -126,7 +126,7 @@ const closeCandle = (map, list, time) => {
    }, time);
 };
 const closeCandles = () => {
-   closeCandle(minCandleMap, minCandleLists, 60 * 1000);
+   closeCandle(minCandleMap, minCandleLists, 6 * 1000);
    closeCandle(fifteenMinCandleMap, fifteenCandleLists, 15 * 60 * 1000);
    closeCandle(hourCandleMap, hourCandleLists, 60 * 60 * 1000);
 };

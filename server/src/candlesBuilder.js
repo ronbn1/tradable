@@ -115,11 +115,12 @@ const addCandlesToLists = (map, list, symbol) => {
 const closeCandle = (map, list, time) => {
    setTimeout(() => {
       setInterval(() => {
-         for (const s in map) {
-            if (map.hasOwnProperty(s)) {
-               addCandlesToLists(map, list, s);
-            }
-         }
+         // for (const s in map) {
+         //    if (map.hasOwnProperty(s)) {
+         //       addCandlesToLists(map, list, s);
+         //    }
+         // }
+         Object.keys(map).map((s) => addCandlesToLists(map, list, s));
          //sendCandlesToClient();
          console.log("list", list);
       }, time);

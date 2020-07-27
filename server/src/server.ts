@@ -1,21 +1,21 @@
 import * as express from "express";
-const symbols = require("./providers/symbols.js");
-const WebSocket = require("ws");
-const app = express();
-const socket = new WebSocket("wss://ws.finnhub.io?token=bse6fvvrh5rea8raarvg");
 const PORT = process.env.PORT || 3000;
+const app = express();
+const symbols = require("./providers/symbols.js");
+const candles = require("./candlesBuilder.js");
+const WebSocket = require("ws");
+const socket = new WebSocket("wss://ws.finnhub.io?token=bse6fvvrh5rea8raarvg");
 
 // Connection opened -> Subscribe
 socket.addEventListener("open", function (event) {
-   socket.send(
-      JSON.stringify({ type: "subscribe", symbol: "BINANCE:IRISBNB" })
-   );
-   //symbols.getSymbols().forEach((s) => socket.send(JSON.stringify(s)));
+   symbols.getSymbols().forEach((s) => {
+      socket.send(JSON.stringify(s));
+   });
 });
 
 // Listen for messages
 socket.addEventListener("message", function (event) {
-   console.log("Message from server ", event.data);
+   console.log(candles.updateMaps(event.data));
 });
 
 // Unsubscribe
@@ -24,5 +24,6 @@ var unsubscribe = function (symbol) {
 };
 
 app.listen(PORT, () => {
+   candles.closeCandle();
    console.log(`Server is running in http://localhost:${PORT}`);
 });

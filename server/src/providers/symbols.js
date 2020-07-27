@@ -4372,10 +4372,5 @@ const symbols = [
 ];
 module.exports = {
    getSymbols: () =>
-      symbols.map((s) => {
-         return {
-            type: "subscribe",
-            symbol: s.symbol,
-         };
-      }),
+      symbols.map(({ symbol }) => ({ type: "subscribe", symbol })).slice(-10),
 };

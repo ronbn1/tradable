@@ -71,9 +71,11 @@ const axios = require("axios");
 const minCandleMap = {};
 const fifteenMinCandleMap = {};
 const hourCandleMap = {};
-const minCandleLists = {};
-const fifteenCandleLists = {};
-const hourCandleLists = {};
+const lastClose = {
+   minMap: {},
+   fifteenMap: {},
+   hourMap: {},
+};
 
 const updateMap = (symbol, currentPrice, map) => {
    if (map[symbol]) {
@@ -91,7 +93,6 @@ const updateMap = (symbol, currentPrice, map) => {
          high: currentPrice,
          open: currentPrice,
          close: currentPrice,
-
          time: new Date().toLocaleTimeString(),
       };
    }
@@ -109,31 +110,40 @@ const updateMaps = (jData) => {
    return minCandleMap;
 };
 
-const addCandlesToLists = (map, list, symbol) => {
-   const toAdd = { ...map[symbol] };
-   list[symbol] = list[symbol] ? [...list[symbol], toAdd] : [toAdd];
+const setTiming = (map, lastClose, url, time) => {
+   setInterval(() => sendGroupCandlesData(map, lastClose, url), time);
 };
 
-const closeCandle = (map, list, time) => {
-   setTimeout(() => {
-      setInterval(() => {
-         Object.keys(map).map((s) => addCandlesToLists(map, list, s));
-         sendCandles(map);
-         console.log("list", list);
-      }, time);
-   }, time);
-};
-const closeCandles = () => {
-   closeCandle(minCandleMap, minCandleLists, 6 * 1000);
-   closeCandle(fifteenMinCandleMap, fifteenCandleLists, 15 * 60 * 1000);
-   closeCandle(hourCandleMap, hourCandleLists, 60 * 60 * 1000);
+const sendingDataTiming = () => {
+   setTiming(minCandleMap, lastClose.minMap, "minute", 60 * 1000);
+   setTiming(
+      fifteenMinCandleMap,
+      lastClose.fifteenMap,
+      "fifteen",
+      15 * 60 * 1000
+   );
+   setTiming(hourCandleMap, lastClose.hourMap, "hour", 60 * 60 * 1000);
 };
 
-const sendCandles = async (map) => {
+const sendGroupCandlesData = (candlesGroupMap, lastClose, url) => {
+   const data = [];
    try {
-      await axios.post(url, {
-         candles: map,
+      Object.keys(candlesGroupMap).map((symbol) => {
+         if (lastClose[symbol]) {
+            data.push({
+               symbol,
+               ...candlesGroupMap[symbol],
+               open: lastClose[symbol],
+            });
+            lastClose[symbol] = candlesGroupMap[symbol].close;
+         } else {
+            lastClose[symbol] = candlesGroupMap[symbol].close;
+
+            data.push({ symbol, ...candlesGroupMap[symbol] });
+         }
       });
+
+      axios.post(`http://localhost:5000/${url}`, data);
    } catch (e) {
       console.log(e);
    }
@@ -141,5 +151,7 @@ const sendCandles = async (map) => {
 
 module.exports = {
    updateMaps,
-   closeCandles,
+   sendingDataTiming,
 };
+
+sendingDataTiming();

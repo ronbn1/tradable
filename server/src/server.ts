@@ -19,7 +19,7 @@ socket.addEventListener("open", function (event) {
 
 // Listen for messages
 socket.addEventListener("message", function (event) {
-   console.log(event.data);
+   // console.log(event.data);
    candles.updateMaps(event.data);
 });
 
@@ -29,6 +29,5 @@ var unsubscribe = function (symbol) {
 };
 
 app.listen(PORT, () => {
-   candles.closeCandles();
    console.log(`Server is running in http://localhost:${PORT}`);
 });

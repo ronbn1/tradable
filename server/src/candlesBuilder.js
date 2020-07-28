@@ -1,72 +1,3 @@
-/* 
-// client needs to get
-const list = [
-   {
-      symbol: "asdsa",
-      high: 2134,
-      low: 23.3,
-      close: 23.3,
-      open: 23.3,
-      //   time: miliseconds/date  this is the update time? create only date for the moment you got the price
-   },
-];
-//how many lists i need to create? one for all?
-
-//a list will be for each symbol, for each time unit table
-// think in terms of:
-const minCandleMap = {
-    //'btc/usd': {low, high...}
-}
-const feefteenMinCandleMap = {
-    //'btc/usd': {low, high...}
-}
-const minCandleMap hour = {
-    //'btc/usd': {low, high...}
-}
-//got the point
-
-//the FN return only the min list? and the others save in db? no
-// now good practice to לשבור תראש על האלגוריתם ;)
-//יאללה, עד שיצא עשן !! יצא אל תדאג חחח אין לי ספק פה אתה גדל, יאללה נדבר
-// סגור ! תודה!!
-//structure
-setTimeout(() => {
-    updateMaps()
-}, 1000);
-setTimeout(() => {
-    if (now is exactly 1min round! ) {
-    sendCandle()
-   }
-}, 60 * 1000);
-function updateMaps() {
-    updateMap()
- }
-function updateMap() { }
-function sendCandle() { //send  candle to another node proccess so it will send to client and save to DB }
-
-// saving to db - only 15min and 1hour to save space, 1min only sending to show real time effect ;)
-// u need to build an algoiritm that will build the each candle in the currect way for - high, low, close, open,
-// close - the last price updated
-// open - the first price,
-// high - the highest price ,
-// low - lowest
-
-//the function should run every time we get a price for symbol - update the prices and after 15min you have a candle ready
-// got my point? yes
-
-// const candles = [];
-// const candlesBuilder = (data) => {
-//    const dataObj = JSON.parse(data);
-//    if (dataObj.type === "trade") {
-
-//    return candles;
-// };
-
-// module.exports = {
-//    candlesBuilder,
-// }
-*/
-
 const axios = require("axios");
 const minCandleMap = {};
 const fifteenMinCandleMap = {};
@@ -75,6 +6,22 @@ const lastClose = {
    minMap: {},
    fifteenMap: {},
    hourMap: {},
+};
+const endpoints = {
+   minute: "minute",
+   fifteen: "fifteen",
+   hour: "hour",
+};
+
+/// initial new candle
+const initCandle = (symbol, currentPrice, map) => {
+   map[symbol] = {
+      low: currentPrice,
+      high: currentPrice,
+      open: currentPrice,
+      close: currentPrice,
+      time: new Date().toLocaleTimeString(),
+   };
 };
 
 const updateMap = (symbol, currentPrice, map) => {
@@ -88,16 +35,11 @@ const updateMap = (symbol, currentPrice, map) => {
       map[symbol].close = currentPrice;
       map[symbol].time = new Date().toLocaleTimeString();
    } else {
-      map[symbol] = {
-         low: currentPrice,
-         high: currentPrice,
-         open: currentPrice,
-         close: currentPrice,
-         time: new Date().toLocaleTimeString(),
-      };
+      initCandle(symbol, currentPrice, map);
    }
 };
 
+//update all maps for each income data message
 const updateMaps = (jData) => {
    const dataObj = JSON.parse(jData);
    if (dataObj.type === "trade") {
@@ -107,43 +49,47 @@ const updateMaps = (jData) => {
       updateMap(s, p, fifteenMinCandleMap);
       updateMap(s, p, hourCandleMap);
    }
-   return minCandleMap;
 };
 
-const setTiming = (map, lastClose, url, time) => {
-   setInterval(() => sendGroupCandlesData(map, lastClose, url), time);
+// Timing the data sending
+const setTiming = (map, lastClose, endpoint, time) => {
+   setInterval(() => sendGroupCandlesData(map, lastClose, endpoint), time);
 };
 
+// Timing the data sending for each time unit
 const sendingDataTiming = () => {
-   setTiming(minCandleMap, lastClose.minMap, "minute", 60 * 1000);
-   setTiming(
-      fifteenMinCandleMap,
-      lastClose.fifteenMap,
-      "fifteen",
-      15 * 60 * 1000
-   );
-   setTiming(hourCandleMap, lastClose.hourMap, "hour", 60 * 60 * 1000);
+   const { minute, fifteen, hour } = endpoints;
+   const oneMinute = 6 * 1000;
+   const fifteenMinute = 15 * oneMinute;
+   const oneHour = 60 * oneMinute;
+   setTiming(minCandleMap, lastClose.minMap, minute, oneMinute);
+   setTiming(fifteenMinCandleMap, lastClose.fifteenMap, fifteen, fifteenMinute);
+   setTiming(hourCandleMap, lastClose.hourMap, hour, oneHour);
 };
 
-const sendGroupCandlesData = (candlesGroupMap, lastClose, url) => {
-   const data = [];
+const updateCandleList = (candlesList, symbol, candlesGroupMap, lastClose) => {
+   if (lastClose[symbol]) {
+      candlesList.push({
+         symbol,
+         ...candlesGroupMap[symbol],
+         open: lastClose[symbol],
+      });
+      lastClose[symbol] = candlesGroupMap[symbol].close;
+   } else {
+      lastClose[symbol] = candlesGroupMap[symbol].close;
+      candlesList.push({ symbol, ...candlesGroupMap[symbol] });
+   }
+};
+
+//send data every time unit
+const sendGroupCandlesData = (candlesGroupMap, lastClose, endpoint) => {
+   const candlesList = [];
    try {
       Object.keys(candlesGroupMap).map((symbol) => {
-         if (lastClose[symbol]) {
-            data.push({
-               symbol,
-               ...candlesGroupMap[symbol],
-               open: lastClose[symbol],
-            });
-            lastClose[symbol] = candlesGroupMap[symbol].close;
-         } else {
-            lastClose[symbol] = candlesGroupMap[symbol].close;
-
-            data.push({ symbol, ...candlesGroupMap[symbol] });
-         }
+         updateCandleList(candlesList, symbol, candlesGroupMap, lastClose);
       });
-
-      axios.post(`http://localhost:5000/${url}`, data);
+      console.log(candlesList);
+      axios.post(`http://localhost:5000/${endpoint}`, candlesList);
    } catch (e) {
       console.log(e);
    }

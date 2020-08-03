@@ -1,0 +1,6 @@
+{"message":"Candles sent successfully","candlesList":[],"level":"error"}
+{"message":"Candles sent successfully","candlesList":[],"level":"error"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:VTHOUSDT","low":0.001816,"high":0.001816,"open":0.001816,"close":0.001816,"time":"20:07:14"}],"level":"error"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:VTHOUSDT","low":0.001816,"high":0.001816,"open":0.001816,"close":0.001816,"time":"20:07:14"}],"level":"error"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:VTHOUSDT","low":0.001816,"high":0.001816,"open":0.001816,"close":0.001816,"time":"20:07:14"},{"symbol":"BINANCE:IRISBTC","low":0.00000444,"high":0.00000444,"open":0.00000444,"close":0.00000444,"time":"20:07:25"}],"level":"error"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:VTHOUSDT","low":0.001805,"high":0.001816,"open":0.001816,"close":0.001805,"time":"20:07:32"},{"symbol":"BINANCE:IRISBTC","low":0.00000444,"high":0.00000444,"open":0.00000444,"close":0.00000444,"time":"20:07:25"}],"level":"error"}

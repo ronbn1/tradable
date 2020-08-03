@@ -1,4 +1,5 @@
 const axios = require("axios");
+const logger = require("./logger");
 const minCandleMap = {};
 const fifteenMinCandleMap = {};
 const hourCandleMap = {};
@@ -88,10 +89,15 @@ const sendGroupCandlesData = (candlesGroupMap, lastClose, endpoint) => {
       Object.keys(candlesGroupMap).map((symbol) => {
          updateCandleList(candlesList, symbol, candlesGroupMap, lastClose);
       });
-      console.log(candlesList);
-      axios.post(`http://localhost:5000/${endpoint}`, candlesList);
+      //axios.post(`ocalhost:5000/${endpoint}`, candlesList);
+      logger.logger.error({
+         message: "Candles sent successfully",
+         candlesList,
+      });
    } catch (e) {
-      console.log(e);
+      logger.logger.error({
+         message: `ERROR - ${e} `,
+      });
    }
 };
 

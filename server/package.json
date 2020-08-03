@@ -2,17 +2,21 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node --inspect=5858 -r ts-node/register ./src/server.ts",
-    "start:watch": "nodemon",
+    "start": "nodemon --exec babel-node ./src/server.js",
     "build": "tsc"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/node": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
     "@types/node": "^14.0.26",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
     "eslint": "^7.5.0",
     "eslint-plugin-import": "^2.22.0",
     "nodemon": "^2.0.4",
@@ -24,6 +28,7 @@
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "natives": "^1.1.6",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
     "winston": "^3.3.3",
@@ -38,8 +43,6 @@
     ],
     "watch": [
       "src"
-    ],
-    "exec": "npm start",
-    "ext": "ts"
+    ]
   }
 }

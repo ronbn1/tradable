@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node ./src/server.js",
+    "start-provider": "nodemon --exec babel-node ./src/provider-service/provider-service.js",
+    "start-candle": "nodemon --exec babel-node ./src/candle-service/candle-service.js",
     "build": "tsc"
   },
   "author": "",

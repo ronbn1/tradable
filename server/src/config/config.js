@@ -1,25 +1,32 @@
 const config = {
-   db: {
-      port: 0,
+   ports: {
+      db: 0,
+      finnhub: 3000,
    },
-   unit: {
-      minute: {
-         endpoint: "minute",
-      },
-      fifteen: {
-         endpoint: "fifteen",
-      },
-      hour: {
-         endpoint: "hour",
-      },
+   unitsName: {
+      minute: "minute",
+      fifteen: "fifteen",
+      hour: "hour",
+   },
+   api: {
+      BASE_API: "api",
+      minute: "minute",
+      fifteen: "fifteenMinutes",
+      hour: "hour",
+   },
+
+   timingCandles: {
+      minute: 6 * 1000,
+      fifteen: 15 * 60 * 1000,
+      hour: 60 * 60 * 1000,
    },
    symbols: [
       {
          symbol: "AAPL",
       },
-      {
-         symbol: "IC MARKETS:1",
-      },
+      // {
+      //    symbol: "IC MARKETS:1",
+      // },
       // {
       //    description: "Binance ETHBTC",
       //    displaySymbol: "ETH/BTC",
@@ -4377,11 +4384,16 @@ const config = {
       // },
       // {
       //    description: "Binance IRISBNB",
-      //    displaySymbol: "IRIS/BN
+      //    displaySymbol: "IRIS/BN",
+      // },
    ],
+   methods: {
+      getSymbols: () =>
+         config.symbols.map(({ symbol }) => ({
+            type: "subscribe",
+            symbol,
+         })),
+   },
 };
 
-export const units = config.unit;
-export const symbols = config.symbols;
-export const getSymbols = () =>
-   config.symbols.map(({ symbol }) => ({ type: "subscribe", symbol }));
+export default config;

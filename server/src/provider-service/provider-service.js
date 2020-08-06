@@ -1,16 +1,12 @@
 import express from "express";
-import { getSymbols } from "./config/config.js";
-import { updateMaps, sendingDataTiming } from "./providers/finnhub.js";
+import config from "../config/config.js";
+import { updateMaps, sendingDataTiming } from "./candleBuilder.js";
 import WebSocket from "ws";
-import routes from "./routes/index.js";
 import dotenv from "dotenv";
 
 dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
-
-app.use(express.json());
-app.use(routes);
 
 const socket = new WebSocket(
    `wss://ws.finnhub.io?token=${process.env.API_KEY}`
@@ -18,7 +14,7 @@ const socket = new WebSocket(
 
 // Connection opened -> Subscribe
 socket.addEventListener("open", function (event) {
-   getSymbols().map((s) => socket.send(JSON.stringify(s)));
+   config.methods.getSymbols().map((s) => socket.send(JSON.stringify(s)));
 });
 
 // Listen for messages

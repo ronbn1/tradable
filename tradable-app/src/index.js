@@ -10,3 +10,4 @@ ReactDOM.render(
    </React.StrictMode>,
    document.getElementById("root")
 );
+//its ok that there is no index in rb-ui root?

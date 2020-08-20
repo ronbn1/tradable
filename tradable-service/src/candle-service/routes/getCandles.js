@@ -11,13 +11,12 @@ router.post(`/${config.api.BASE_API}/${config.api.minute}`, (req, res) => {
 });
 
 router.post(`/${config.api.BASE_API}/${config.api.fifteen}`, (req, res) => {
-   const candleWithAvg = addAverages(req.body);
-   console.log(candleWithAvg);
+   const candleWithAvg = addCandleAvg(req.body);
    res.send("ok");
 });
 
 router.post(`/${config.api.BASE_API}/${config.api.hour}`, (req, res) => {
-   const candleWithAvg = addAverages(req.body);
+   const candleWithAvg = addCandleAvg(req.body);
    console.log(candleWithAvg);
    res.send("ok");
 });

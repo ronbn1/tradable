@@ -11,7 +11,7 @@ const initCandle = (symbol, currentPrice, map) => {
       high: currentPrice,
       open: currentPrice,
       close: currentPrice,
-      time: new Date().toLocaleTimeString(),
+      time: new Date(),
    };
 };
 
@@ -20,7 +20,7 @@ const updateCandle = (map, currentPrice) => {
    map.low = low < currentPrice ? low : currentPrice;
    map.high = high > currentPrice ? high : currentPrice;
    map.close = currentPrice;
-   map.time = new Date().toLocaleTimeString();
+   map.time = new Date();
 };
 
 const updateMap = (symbol, currentPrice, map) => {

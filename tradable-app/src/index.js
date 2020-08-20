@@ -1,13 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import App from "./components/App/App";
 import GlobalStyle from "./themes/globalStyls";
-
+import ContextProvider from "./store/ContextProvider";
 ReactDOM.render(
-   <React.StrictMode>
+   <>
       <GlobalStyle />
-      <App />
-   </React.StrictMode>,
+      <ContextProvider>
+         <App />
+      </ContextProvider>
+   </>,
    document.getElementById("root")
 );
-//its ok that there is no index in rb-ui root?

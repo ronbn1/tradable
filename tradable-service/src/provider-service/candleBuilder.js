@@ -75,13 +75,17 @@ const sendGroupCandlesData = (candlesGroupMap, lastClose, unitName) => {
             `http://localhost:5000/${config.api.BASE_API}/${config.api[unitName]}`,
             candlesList
          )
-         .then((res) =>
+         .then((res) => {
             logger.info({
                // should not be error
                message: "Candles sent successfully",
                candlesList,
-            })
-         )
+            });
+            Object.keys(candlesGroupMap).map((symbol) => {
+               candlesGroupMap[symbol].low = candlesGroupMap[symbol].close;
+               candlesGroupMap[symbol].high = candlesGroupMap[symbol].close;
+            });
+         })
          .catch((e) => logger.error({}));
    } catch (e) {
       logger.error({

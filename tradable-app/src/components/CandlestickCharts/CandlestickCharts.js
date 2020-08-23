@@ -292,9 +292,9 @@ const ApexChart = () => {
 
    const axisData = [];
    useEffect(() => {
-      if (candlesData.AAPL) {
-         for (let i = 0; i < candlesData.AAPL.length; i++) {
-            let c = candlesData.AAPL[i];
+      if (candlesData["BINANCE:BTCUSDT"]) {
+         for (let i = 0; i < candlesData["BINANCE:BTCUSDT"].length; i++) {
+            let c = candlesData["BINANCE:BTCUSDT"][i];
 
             if (
                !axisData.length ||

@@ -21,11 +21,7 @@ const Dashboard = () => {
    return (
       <Container>
          <div className="titleRow">
-            <Title
-               color={getMode() === "darkMode" ? "light" : "dark"}
-               text="Dashboard"
-            />
-            ;
+            <Title color={darkMode ? "light" : "dark"} text="Dashboard" />;
             <Card
                borderColor={
                   darkMode

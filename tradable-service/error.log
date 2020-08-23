@@ -1803,6 +1803,7 @@
 {"message":{},"level":"error"}
 {"message":{},"level":"error"}
 {"message":{},"level":"error"}
+<<<<<<< HEAD
 {"message":{},"level":"error"}
 {"message":{},"level":"error"}
 {"message":{},"level":"error"}
@@ -2462,3 +2463,5 @@
 {"message":{},"level":"error"}
 {"message":{},"level":"error"}
 {"message":{},"level":"error"}
+=======
+>>>>>>> DB

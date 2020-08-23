@@ -11,7 +11,7 @@ const initCandle = (symbol, currentPrice, map) => {
       high: currentPrice,
       open: currentPrice,
       close: currentPrice,
-      time: new Date().toLocaleTimeString(),
+      time: new Date(),
    };
 };
 
@@ -20,7 +20,7 @@ const updateCandle = (map, currentPrice) => {
    map.low = low < currentPrice ? low : currentPrice;
    map.high = high > currentPrice ? high : currentPrice;
    map.close = currentPrice;
-   map.time = new Date().toLocaleTimeString();
+   map.time = new Date();
 };
 
 const updateMap = (symbol, currentPrice, map) => {
@@ -75,13 +75,17 @@ const sendGroupCandlesData = (candlesGroupMap, lastClose, unitName) => {
             `http://localhost:5000/${config.api.BASE_API}/${config.api[unitName]}`,
             candlesList
          )
-         .then((res) =>
+         .then((res) => {
             logger.info({
                // should not be error
                message: "Candles sent successfully",
                candlesList,
-            })
-         )
+            });
+            Object.keys(candlesGroupMap).map((symbol) => {
+               candlesGroupMap[symbol].low = candlesGroupMap[symbol].close;
+               candlesGroupMap[symbol].high = candlesGroupMap[symbol].close;
+            });
+         })
          .catch((e) => logger.error({}));
    } catch (e) {
       logger.error({

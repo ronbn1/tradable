@@ -24,9 +24,19 @@ const config = {
       {
          symbol: "AAPL",
       },
-      // {
-      //    symbol: "IC MARKETS:1",
-      // },
+      {
+         symbol: "IC MARKETS:1",
+      },
+      {
+         description: "Binance BTCUSDT",
+         displaySymbol: "BTC/USDT",
+         symbol: "BINANCE:BTCUSDT",
+      },
+      {
+         description: "Binance ETHUSDT",
+         displaySymbol: "ETH/USDT",
+         symbol: "BINANCE:ETHUSDT",
+      },
       // {
       //    description: "Binance ETHBTC",
       //    displaySymbol: "ETH/BTC",
@@ -81,16 +91,6 @@ const config = {
       //    description: "Binance BNBETH",
       //    displaySymbol: "BNB/ETH",
       //    symbol: "BINANCE:BNBETH",
-      // },
-      // {
-      //    description: "Binance BTCUSDT",
-      //    displaySymbol: "BTC/USDT",
-      //    symbol: "BINANCE:BTCUSDT",
-      // },
-      // {
-      //    description: "Binance ETHUSDT",
-      //    displaySymbol: "ETH/USDT",
-      //    symbol: "BINANCE:ETHUSDT",
       // },
       // {
       //    description: "Binance HSRBTC",

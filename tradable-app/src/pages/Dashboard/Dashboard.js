@@ -15,42 +15,13 @@ import decrease from "../../assets/decrease-arrow.svg";
 import dots from "../../assets/ellipsis-v-solid.svg";
 import Table from "../../components/Table/Table";
 import { globalTheme } from "../../themes/globalStyls";
-import CandlestickCharts from "../../components/CandlestickCharts/CandlestickCharts";
+import CandlestickCharts from "../../containers/CandlestickCharts/CandlestickCharts";
+import TitleRow from "../../components/TitleRow/TitleRow";
 const Dashboard = () => {
    const { darkMode, getMode } = useContext(Context);
    return (
       <Container>
-         <div className="titleRow">
-            <Title color={darkMode ? "light" : "dark"} text="Dashboard" />;
-            <Card
-               borderColor={
-                  darkMode
-                     ? globalTheme.colors.darkMode.light + 30
-                     : globalTheme.colors.lightMode.dark + 30
-               }
-            >
-               <Card.Body style={{ padding: "0" }}>
-                  <Card.Text
-                     style={{
-                        color: `${globalTheme.colors[getMode()].text}a0`,
-                        fontSize: "0.8rem",
-                        padding: "10px",
-                     }}
-                  >
-                     Player Account
-                  </Card.Text>
-                  <Card.Text
-                     style={{
-                        fontSize: "0.9rem",
-                        color: `${globalTheme.colors.darkMode.primary}`,
-                        padding: "0 10px 5px 10px",
-                     }}
-                  >
-                     Account Name
-                  </Card.Text>
-               </Card.Body>
-            </Card>
-         </div>
+         <TitleRow />
          <Tabs />
          <Row>
             <ChartContainer>

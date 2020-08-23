@@ -16,7 +16,7 @@ const config = {
    },
 
    timingCandles: {
-      minute: 6 * 1000,
+      minute: 60 * 1000,
       fifteen: 15 * 60 * 1000,
       hour: 60 * 60 * 1000,
    },

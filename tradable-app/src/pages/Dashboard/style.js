@@ -2,10 +2,6 @@ import styled from "styled-components";
 import { globalTheme } from "../../themes/globalStyls";
 export const Container = styled.div`
    padding: 1rem 4rem;
-   .titleRow {
-      display: flex;
-      justify-content: space-between;
-   }
 
    table {
       margin: 0 auto;

@@ -5,6 +5,7 @@ import TopMenu from "../TopMenu/TopMenu";
 import Dashboard from "../../pages/Dashboard/Dashboard";
 import { Container, Main } from "./style";
 import { socketConnection } from "../../services/sockets";
+import axios from "axios";
 function App() {
    const { darkMode, getMode, setCandles } = useContext(Context);
 

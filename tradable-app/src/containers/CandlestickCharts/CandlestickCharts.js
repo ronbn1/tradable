@@ -311,17 +311,15 @@ const ApexChart = () => {
 
       console.log(data);
    }, [candlesData]);
-   // console.log(state.series);
+
    return (
-      <div>
-         <ReactApexChart
-            options={state.options}
-            series={data}
-            type="candlestick"
-            height={250}
-            style={{ padding: "2rem" }}
-         />
-      </div>
+      <ReactApexChart
+         options={state.options}
+         series={data}
+         type="candlestick"
+         height={250}
+         style={{ padding: "2rem" }}
+      />
    );
 };
 

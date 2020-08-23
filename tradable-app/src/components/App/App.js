@@ -7,7 +7,7 @@ import { Container, Main } from "./style";
 import { socketConnection } from "../../services/sockets";
 import axios from "axios";
 function App() {
-   const { darkMode, getMode, setCandles } = useContext(Context);
+   const { darkMode, getMode, setCandles, candlesData } = useContext(Context);
 
    useEffect(() => {
       socketConnection(setCandles);

@@ -309,7 +309,7 @@ const ApexChart = () => {
       }
       setData([{ data: [...axisData] }]);
 
-      console.log(data);
+      // console.log(data);
    }, [candlesData]);
 
    return (

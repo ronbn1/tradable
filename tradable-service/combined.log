@@ -8252,3 +8252,843 @@
 {"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.71,"high":417.31,"open":416.2,"close":415.77,"time":"2020-08-20T16:36:14.921Z"},{"symbol":"BINANCE:BTCUSDT","low":11839.75,"high":11866.02,"open":11848.31,"close":11842.19,"time":"2020-08-20T16:36:14.921Z"},{"symbol":"AAPL","low":469.07,"high":469.6,"open":469.295,"close":469.1067,"time":"2020-08-20T16:36:14.921Z"},{"symbol":"IC MARKETS:1","low":1.18548,"high":1.18578,"open":1.18555,"close":1.18548,"time":"2020-08-20T16:36:07.741Z"}],"level":"info"}
 {"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.57,"high":417.31,"open":415.77,"close":415.61,"time":"2020-08-20T16:37:14.841Z"},{"symbol":"BINANCE:BTCUSDT","low":11838,"high":11866.02,"open":11842.19,"close":11838.83,"time":"2020-08-20T16:37:14.841Z"},{"symbol":"AAPL","low":469,"high":469.6,"open":469.1067,"close":469.105,"time":"2020-08-20T16:37:14.841Z"},{"symbol":"IC MARKETS:1","low":1.18543,"high":1.18578,"open":1.18548,"close":1.18544,"time":"2020-08-20T16:37:14.841Z"}],"level":"info"}
 {"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.31,"open":415.61,"close":416.31,"time":"2020-08-20T16:38:14.914Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11866.02,"open":11838.83,"close":11845.85,"time":"2020-08-20T16:38:14.914Z"},{"symbol":"AAPL","low":468.96,"high":469.6,"open":469.105,"close":469.11,"time":"2020-08-20T16:38:14.914Z"},{"symbol":"IC MARKETS:1","low":1.18536,"high":1.18578,"open":1.18544,"close":1.18546,"time":"2020-08-20T16:38:09.901Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.31,"open":416.31,"close":416.53,"time":"2020-08-20T16:39:14.535Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11866.02,"open":11845.85,"close":11848,"time":"2020-08-20T16:39:14.534Z"},{"symbol":"AAPL","low":468.96,"high":469.6,"open":469.11,"close":469.55,"time":"2020-08-20T16:39:14.535Z"},{"symbol":"IC MARKETS:1","low":1.18533,"high":1.18578,"open":1.18546,"close":1.18534,"time":"2020-08-20T16:39:12.693Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.48,"open":416.53,"close":417.25,"time":"2020-08-20T16:40:14.800Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11866.02,"open":11848,"close":11862.82,"time":"2020-08-20T16:40:14.800Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.55,"close":469.7162,"time":"2020-08-20T16:40:14.800Z"},{"symbol":"IC MARKETS:1","low":1.1853,"high":1.18578,"open":1.18534,"close":1.185325,"time":"2020-08-20T16:40:14.800Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.69,"open":417.25,"close":417.58,"time":"2020-08-20T16:41:15.130Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11871.33,"open":11862.82,"close":11871.11,"time":"2020-08-20T16:41:15.130Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.7162,"close":469.745,"time":"2020-08-20T16:41:15.130Z"},{"symbol":"IC MARKETS:1","low":1.1853,"high":1.18578,"open":1.185325,"close":1.185385,"time":"2020-08-20T16:41:14.141Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417.58,"close":417.27,"time":"2020-08-20T16:42:14.643Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11871.11,"close":11869.16,"time":"2020-08-20T16:42:14.643Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.745,"close":469.6099,"time":"2020-08-20T16:42:14.643Z"},{"symbol":"IC MARKETS:1","low":1.1853,"high":1.18578,"open":1.185385,"close":1.18536,"time":"2020-08-20T16:42:14.485Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417,"close":417.05,"time":"2020-08-20T16:43:14.708Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11860.98,"close":11863.8,"time":"2020-08-20T16:43:14.709Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.465,"close":469.5107,"time":"2020-08-20T16:43:14.708Z"},{"symbol":"IC MARKETS:1","low":1.1853,"high":1.18578,"open":1.18569,"close":1.18534,"time":"2020-08-20T16:43:03.547Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417.27,"close":417.05,"time":"2020-08-20T16:43:14.708Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11869.16,"close":11863.8,"time":"2020-08-20T16:43:14.709Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.6099,"close":469.5107,"time":"2020-08-20T16:43:14.708Z"},{"symbol":"IC MARKETS:1","low":1.1853,"high":1.18578,"open":1.18536,"close":1.18534,"time":"2020-08-20T16:43:03.547Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417.05,"close":416.75,"time":"2020-08-20T16:44:13.808Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11863.8,"close":11859.58,"time":"2020-08-20T16:44:14.818Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.5107,"close":469.35,"time":"2020-08-20T16:44:14.818Z"},{"symbol":"IC MARKETS:1","low":1.18529,"high":1.18578,"open":1.18534,"close":1.18539,"time":"2020-08-20T16:44:12.806Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.75,"close":417,"time":"2020-08-20T16:45:14.661Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11859.58,"close":11862.91,"time":"2020-08-20T16:45:14.661Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.35,"close":469.45,"time":"2020-08-20T16:45:14.661Z"},{"symbol":"IC MARKETS:1","low":1.18529,"high":1.18578,"open":1.18539,"close":1.18544,"time":"2020-08-20T16:45:10.508Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417,"close":417.31,"time":"2020-08-20T16:46:14.612Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11862.91,"close":11863.29,"time":"2020-08-20T16:46:14.771Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.45,"close":469.6,"time":"2020-08-20T16:46:14.612Z"},{"symbol":"IC MARKETS:1","low":1.18529,"high":1.18578,"open":1.18544,"close":1.185585,"time":"2020-08-20T16:46:06.743Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417.31,"close":417.36,"time":"2020-08-20T16:47:15.194Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11863.29,"close":11869.52,"time":"2020-08-20T16:47:15.194Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.6,"close":469.356,"time":"2020-08-20T16:47:15.194Z"},{"symbol":"IC MARKETS:1","low":1.18529,"high":1.18578,"open":1.185585,"close":1.18555,"time":"2020-08-20T16:47:14.195Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417.36,"close":417.39,"time":"2020-08-20T16:48:14.759Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11869.52,"close":11864.86,"time":"2020-08-20T16:48:14.759Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.356,"close":469.2101,"time":"2020-08-20T16:48:14.759Z"},{"symbol":"IC MARKETS:1","low":1.18529,"high":1.18578,"open":1.18555,"close":1.1855,"time":"2020-08-20T16:48:08.756Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417.39,"close":416.98,"time":"2020-08-20T16:49:15.031Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11864.86,"close":11852.07,"time":"2020-08-20T16:49:15.031Z"},{"symbol":"AAPL","low":468.96,"high":469.86,"open":469.2101,"close":469.06,"time":"2020-08-20T16:49:15.031Z"},{"symbol":"IC MARKETS:1","low":1.18529,"high":1.18578,"open":1.1855,"close":1.18548,"time":"2020-08-20T16:49:14.870Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.98,"close":416.59,"time":"2020-08-20T16:50:14.090Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11852.07,"close":11851.98,"time":"2020-08-20T16:50:14.090Z"},{"symbol":"AAPL","low":468.83,"high":469.86,"open":469.06,"close":468.88,"time":"2020-08-20T16:50:14.090Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18548,"close":1.18528,"time":"2020-08-20T16:50:14.090Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.59,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11851.98,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.88,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417.05,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11863.8,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":469.5107,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18534,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":417,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11860.98,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":469.465,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18569,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:ETHUSDT","low":415.44,"high":417.92,"open":416.25,"close":416.25,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"BINANCE:BTCUSDT","low":11836.5,"high":11880.01,"open":11846.33,"close":11846.33,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"AAPL","low":468.78,"high":469.86,"open":468.87,"close":468.87,"time":"2020-08-20T16:50:24.100Z"},{"symbol":"IC MARKETS:1","low":1.18525,"high":1.18578,"open":1.18528,"close":1.18528,"time":"2020-08-20T16:50:19.085Z"}],"level":"info"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:BTCUSDT","low":11530.75,"high":11640,"open":11587.98,"close":11587.98,"time":"2020-08-22T10:00:02.015Z"},{"symbol":"BINANCE:ETHUSDT","low":389.4,"high":395.29,"open":392.38,"close":392.38,"time":"2020-08-22T10:00:01.859Z"}],"level":"info"}
+{"message":"Candles sent successfully","candlesList":[{"symbol":"BINANCE:BTCUSDT","low":11530.75,"high":11640,"open":11587.98,"close":11587.98,"time":"2020-08-22T10:00:02.015Z"},{"symbol":"BINANCE:ETHUSDT","low":389.4,"high":395.29,"open":392.38,"close":392.38,"time":"2020-08-22T10:00:01.859Z"}],"level":"info"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}

@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { logger } from "../logger/logger.js";
 
 export const connectDB = async () => {
    try {
@@ -11,7 +12,9 @@ export const connectDB = async () => {
 
       console.log("MongoDB Connected...");
    } catch (err) {
-      console.error(err.message);
+      logger.error({
+         message: `ERROR - ${e} `,
+      });
       process.exit(1);
    }
 };

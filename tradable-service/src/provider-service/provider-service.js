@@ -19,7 +19,6 @@ socket.addEventListener("open", function (event) {
 
 // Listen for messages
 socket.addEventListener("message", ({ data }) => {
-   console.log(data);
    updateMaps(data);
 });
 

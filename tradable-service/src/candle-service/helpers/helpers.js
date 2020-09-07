@@ -1,3 +1,5 @@
+import { logger } from "../../logger/logger.js";
+
 const candlePrices = {};
 
 const setNewSymbol = (symbol) => {
@@ -62,7 +64,8 @@ const addLinearAvg = (candlesList) => {
    return candlesWithLinearAvg;
 };
 
-export const addCandleAvg = (candlesList) => {
+export const addCandleAvg = (req, res, next) => {
+   const candlesList = req.body;
    candlesList.forEach((candle) => {
       const { symbol } = candle;
       candle.avg = {};
@@ -70,9 +73,23 @@ export const addCandleAvg = (candlesList) => {
          setNewSymbol(symbol);
       }
    });
-
    const candleWithSimpleAvg = addSimpleAvg(candlesList);
    const candleWithLinearAvg = addLinearAvg(candleWithSimpleAvg);
+   req.candleWithAvg = candleWithLinearAvg;
+   next();
+};
 
-   return candleWithLinearAvg;
+export const saveCandleToDB = async (candles, collection) => {
+   try {
+      collection.insertMany(candles).then(() => {
+         logger.info({
+            message: "Candles Saved",
+            candles,
+         });
+      });
+   } catch (e) {
+      logger.error({
+         message: `ERROR - ${e} `,
+      });
+   }
 };

@@ -259,7 +259,7 @@ const ApexChart = () => {
             height: 350,
          },
          title: {
-            text: "CandleStick Chart",
+            text: "BINANCE:BTCUSDT CandleStick Chart",
             align: "left",
             style: {
                fontWeight: 600,

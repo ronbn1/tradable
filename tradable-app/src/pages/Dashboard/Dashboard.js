@@ -23,7 +23,6 @@ const Dashboard = () => {
       <Container>
          <TitleRow />
          <Tabs />
-         <button onClick={() => setDarkMode((cur) => !cur)} />
          <Row>
             <ChartContainer>
                <CandlestickCharts />

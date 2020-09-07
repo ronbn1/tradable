@@ -21,7 +21,6 @@ router.post(`/${config.api.BASE_API}/${config.api.fifteen}`, (req, res) => {
 router.post(`/${config.api.BASE_API}/${config.api.hour}`, (req, res) => {
    const candleWithAvg = req.candleWithAvg;
    saveCandleToDB(candleWithAvg, Hour);
-   console.log(candleWithAvg);
    res.send("ok");
 });
 

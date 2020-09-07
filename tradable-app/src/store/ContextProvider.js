@@ -7,23 +7,8 @@ const ContextProvider = (props) => {
    // const [counter, setCounter] = useState(0);
 
    const setCandles = (data) => {
-      // console.log("candlesData: ", candlesData);
-      // const candlesObj = { ...candlesData };
-
-      // data.map((c) => {
-      //    if (candlesObj[c.symbol]) {
-      //       candlesObj[c.symbol].push(c);
-      //    } else {
-      //       candlesObj[c.symbol] = [{ ...c }];
-      //    }
-      // });
-
-      // setCandlesData(candlesObj);
-
       setCandlesData((prevState) => {
-         console.log("prevState: ", prevState);
          const candlesObj = { ...prevState };
-         console.log("candlesObj: ", candlesObj);
          data.map((c) => {
             if (candlesObj[c.symbol]) {
                candlesObj[c.symbol].push(c);
@@ -39,9 +24,6 @@ const ContextProvider = (props) => {
       });
    };
    const getMode = () => {
-      // console.log("mode: ", darkMode);
-      // console.log("counter: ", counter);
-      // console.log("mode candlesData: ", candlesData);
       return darkMode ? "darkMode" : "lightMode";
    };
 

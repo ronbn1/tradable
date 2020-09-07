@@ -61,7 +61,6 @@ const ApexChart = () => {
             }
          }
          setData([{ data: [...axisData] }]);
-         console.log(candlesData);
          const stateWithCorrectChartName = JSON.parse(JSON.stringify(state));
          stateWithCorrectChartName.options.title.text = `${candlesData["BINANCE:BTCUSDT"][0].symbol} CandleStick Chart`;
          setState(stateWithCorrectChartName);

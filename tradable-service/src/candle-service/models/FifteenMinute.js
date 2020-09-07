@@ -21,6 +21,14 @@ const FifteenMinuteSchema = new Schema({
       type: Date,
       default: Date.now,
    },
+   avg: {
+      simpleAvg: {
+         type: Number,
+      },
+      linearAvg: {
+         type: Number,
+      },
+   },
 });
 
 const FifteenMinuteCandles = mongoose.model(
